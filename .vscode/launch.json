@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "cutenotes.App",
+            "projectName": "app",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-21.0.8/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
